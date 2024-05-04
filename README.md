@@ -11,22 +11,19 @@ The news aggregator works in 3 steps:
 The options are: Latest,Entertainment,Sports,Politics,Breaking-News
 
 # Screenshots
-Latest Page:
+# Latest Page:
  ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/8d9f35a1-db9e-4cea-8ce8-78841ae6c116)
 
-
-Entertainment:
+# Entertainment:
  ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/b986f824-638c-4b85-b427-b80bc41d902b)
 
-
-Breaking News:
+# Breaking News:
  ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/431fccfe-a7b0-4a06-a092-4dcec087da58)
 
-
-Politics:
+# Politics:
  ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/78c2581e-c64c-4c81-b429-19984b9490fa)
 
- Sports:
+ # Sports:
  ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/32e8d155-5a1c-407b-a6bf-a37a5fdfea29)
 
 
