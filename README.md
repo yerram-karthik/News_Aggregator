@@ -16,18 +16,21 @@ The news aggregator works in 3 steps:
 
 # Screenshots
 # Latest Page:
- ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/8d9f35a1-db9e-4cea-8ce8-78841ae6c116)
+![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/d9cb1880-af70-482a-a108-831a9c87bb63)
+
 
 # Entertainment:
- ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/b986f824-638c-4b85-b427-b80bc41d902b)
+ ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/0503c66a-38cf-4881-9373-76167a2760cf)
+
 
 # Breaking News:
- ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/431fccfe-a7b0-4a06-a092-4dcec087da58)
+ ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/79585bef-9341-42e4-aac6-56baff32a635)
+
 
 # Politics:
- ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/78c2581e-c64c-4c81-b429-19984b9490fa)
+![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/3ec61f75-4cd1-4ce8-82b3-b4176a1e2bed)
 
  # Sports:
- ![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/32e8d155-5a1c-407b-a6bf-a37a5fdfea29)
+![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/d3667dee-da2f-4d35-8d9e-271c7c2b57ea)
 
 
