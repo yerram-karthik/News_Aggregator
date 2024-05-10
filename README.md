@@ -11,7 +11,7 @@ The News Aggregator is a Django-based project meticulously crafted to extract ne
 
 **Sharing Through Social Media:** Users can easily share their favorite articles with friends and followers on popular social media platforms like Facebook, WhatsApp, and Telegram. This feature enhances user engagement and facilitates the dissemination of noteworthy news content.
 
-**Content Storage: **Once fetched, the articles' essential elements such as images, links, and titles are meticulously organized and stored within our database. This enables efficient retrieval and seamless integration with the user interface.
+**Content Storage:** Once fetched, the articles' essential elements such as images, links, and titles are meticulously organized and stored within our database. This enables efficient retrieval and seamless integration with the user interface.
 
 **User-Friendly Interface:** The heart of our application lies in its intuitive user interface. Through a clean and visually appealing design, users can effortlessly navigate through different news categories, including Latest, Entertainment, Sports, Politics, and Breaking News. A simple 'Load News' button initiates the process, offering users a curated selection of articles tailored to their interests.
 
