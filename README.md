@@ -1,4 +1,4 @@
-![image](https://github.com/yerram-karthik/News_Aggregator/assets/136573431/10801ffe-f37d-4ef0-8602-e0073b940deb)# News_Aggregator
+# News_Aggregator
 
 # PPT: https://www.canva.com/design/DAGEYKCqq9I/8iaUkK5ip2HYEM_J584SDg/edit?utm_content=DAGEYKCqq9I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\
 
@@ -65,8 +65,8 @@ These software components are essential for running the News Aggregator project 
     
 # Run using Command Prompt
 **Navigate to the News-Aggregator folder which has manage.py file then run the following command on cmd/Terminal/Pycharm**
-
-python manage.py runserver
+    
+    python manage.py runserver
 
 # Tech stack
 - Backend : Python3,Beautiful soup
