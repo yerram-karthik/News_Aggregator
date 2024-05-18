@@ -1,7 +1,5 @@
 # News_Aggregator
 
-# PPT: https://www.canva.com/design/DAGEYKCqq9I/8iaUkK5ip2HYEM_J584SDg/edit?utm_content=DAGEYKCqq9I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\
-
 # Description
 The News Aggregator is a Django-based project meticulously crafted to extract news articles from a designated website using web scraping techniques, leveraging the power of BeautifulSoup and the request module. By seamlessly integrating web crawlers with web applications, our project epitomizes the synergy between these technologies, all implemented using Python.
 
